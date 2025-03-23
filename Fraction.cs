@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Fraction
+    public class Fraction
     {
         public int Numerator { get; }
         public int Denominator { get; }
